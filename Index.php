@@ -5,9 +5,9 @@
 <head>
     <title>Mobile Repair Techs</title>
     <link href="./styles/style.css" type="text/css" rel=stylesheet>
-    <form action='footer.php' method='post'> 
-    <script src="JS/script.js"></script>
-    <script language="php" type="text/php"> echo 'test this';</script>
+    <form action='footer.php' method='post'>
+        <script src="JS/script.js"></script>
+        <script language="php" type="text/php"> echo 'test this';</script>
 
 </head>
 
@@ -24,26 +24,35 @@
                 <p> Do you need something of yours repaired?</p>
                 <p> Click on your device to get stared!</p>
             </div>
-            <div id="selectdevice">
-                <div id="devicebg">
-                    <img src="Images/lcd.png">
-                </div>
+            <div id="devicetable">
+                <table>
+                    <th>
+                        <tc>
+                            <div id="selectdevice">
+                                <div id="devicebg">
+                                    <img src="Images/lcd.png">
+                                </div>
+                            </div>
+                        </tc>
+                    </th>
+                </table>
             </div>
         </div>
     </div>
 
     <div id="footer">
-        
+
         <?php include('footer.php');?>
-        
+
         <ul>
             <li><a href="Index.html">Home</a></li>
             <li>About Us</li>
             <li>Repairs</li>
             <li><a href="./info.php">Php Info</a></li>
- 
+
 
         </ul>
     </div>
 </body>
+
 </html>

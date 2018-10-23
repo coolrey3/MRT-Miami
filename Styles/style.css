@@ -1,4 +1,12 @@
+#header  {
+    background-color: gray;
+}
+
 h1 {
-    color:red;
+    color:blue;
+    text-align: center;
+}
+
+#body p {
     text-align: center;
 }

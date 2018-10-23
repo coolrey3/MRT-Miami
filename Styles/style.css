@@ -23,6 +23,7 @@ h1 {
 }
 
 #device img {
+    margin: 50%;
     width: auto;
     text-align: center;
 }

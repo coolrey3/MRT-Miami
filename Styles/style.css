@@ -10,3 +10,14 @@ h1 {
 #body p {
     text-align: center;
 }
+
+#footer {
+    text-align: center;
+    position:;
+    background-color: gray;
+    top: 4px;
+}
+
+#footer ul,li {
+    display: inline;
+}

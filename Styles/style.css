@@ -21,3 +21,8 @@ h1 {
 #footer ul,li {
     display: inline;
 }
+
+#device {
+    width: auto
+    text-align: center
+}

@@ -15,6 +15,7 @@ h1 {
 }
 
 #devicetable {
+    display: inline-grid;
     margin: auto;
     text-align: center;
     width: 100%;

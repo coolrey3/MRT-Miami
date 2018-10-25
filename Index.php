@@ -28,21 +28,27 @@
                 <table>
                     <th>
 
-                    <tr>
-                        <p>Title</p>
-                    </tr>
-                    </th>
                         <tr>
-                            <tc>
-                                <td>
-                                    <div id="selectdevice">
-                                        <div id="devicebg">
-                                            <img src="Images/lcd.png">
-                                        </div>
-                                    </div>
-                                </td>
-                            </tc>
+                            <p>iPhone</p>
                         </tr>
+                    </th>
+                    <th>
+
+                        <tr>
+                            <p>Samsung</p>
+                        </tr>
+                    </th>
+                    <tr>
+                        <tc>
+                            <td>
+                                <div id="selectdevice">
+                                    <div id="devicebg">
+                                        <img src="Images/lcd.png">
+                                    </div>
+                                </div>
+                            </td>
+                        </tc>
+                    </tr>
                     <td>
                         <p> Test text</p>
                     </td>

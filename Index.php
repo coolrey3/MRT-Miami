@@ -26,18 +26,22 @@
             </div>
             <div id="devicetable">
                 <table>
+                    <tc>
                     <th>
 
                         <tr>
                             <p>iPhone</p>
                         </tr>
                     </th>
+                    </tc>
+                    <tc>
                     <th>
 
                         <tr>
                             <p>Samsung</p>
                         </tr>
                     </th>
+                    </tc>
                     <tr>
                         <tc>
                             <td>

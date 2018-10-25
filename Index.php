@@ -40,9 +40,9 @@
                     </th>
                     <tr>
                         <td>
-                    <tr>
+                    
                         <img src="Images/lcd.png">
-                    </tr>
+                    
                     </td>
                     <td>
                         <img src="Images/lcd.png">

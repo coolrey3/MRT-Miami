@@ -58,6 +58,8 @@
 
 
                         <td>
+                            <img src="Images/lcd.png">
+
                             <!--  <div id="selectdevice">
                             <div id="devicebg">
                             </div>

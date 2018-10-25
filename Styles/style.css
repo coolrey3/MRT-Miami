@@ -45,6 +45,6 @@ div#devicetable
     display: inline;
 }
 
-#devicetable p {
+p #devicetable  {
     font-weight: bold;
 }

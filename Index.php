@@ -28,20 +28,20 @@
                 <table>
                     <thead>
 
-                    <td>
-                        <p>iPhone</p>
-                    </td>
+                        <td>
+                            <p>iPhone</p>
+                        </td>
 
-                    <td>
-                        <p>Samsung</p>
-                    </td>
-                    <td>
-                        <p>Tablet</p>
-                    </td>
+                        <td>
+                            <p>Samsung</p>
+                        </td>
+                        <td>
+                            <p>Tablet</p>
+                        </td>
 
-                    <td>
-                        <p>Laptop</p>
-                    </td>
+                        <td>
+                            <p>Laptop</p>
+                        </td>
                     </thead>
 
                     <tr>
@@ -49,32 +49,29 @@
 
                             <img src="Images/lcd.png">
                         </td>
-                
-                        
+
+
                         <td>
                             <img src="Images/lcd.png">
                         </td>
 
                     </tr>
-                    <!--
 
 
                     <td>
-                        <div id="selectdevice">
+                        <!--  <div id="selectdevice">
                             <div id="devicebg">
-                                <img src="Images/lcd.png">
                             </div>
                         </div>
+-->
                     </td>
 
-                    <td>
-                        <p> Test text</p>
-                    </td>
+
                     <tr>
                         <td>
-                            <p> Test text</p>
+                            <img src="Images/lcd.png">
                         </td>
-                    </tr> -->
+                    </tr>
                 </table>
             </div>
         </div>

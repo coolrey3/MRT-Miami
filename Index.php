@@ -28,18 +28,17 @@
                 <table>
                     <th>
 
-
                     <td>
                         <p>iPhone</p>
                     </td>
-
 
                     <td>
                         <p>Samsung</p>
                     </td>
                     </th>
+                        <!--
                     <tr>
-                        <td>
+<td>
 
                             <img src="Images/lcd.png">
 
@@ -66,7 +65,7 @@
                         <td>
                             <p> Test text</p>
                         </td>
-                    </tr>
+                    </tr> -->
                 </table>
             </div>
         </div>

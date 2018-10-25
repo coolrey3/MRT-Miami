@@ -26,7 +26,7 @@
             </div>
             <div id="devicetable">
                 <table>
-                    <th>
+                    <thead>
 
                     <td>
                         <p>iPhone</p>
@@ -42,7 +42,7 @@
                     <td>
                         <p>Laptop</p>
                     </td>
-                    </th>
+                    </thead>
 
                     <tr>
                         <td>

@@ -37,9 +37,9 @@
                     <tc>
                     <th>
 
-                        <tr>
+                        <td>
                             <p>Samsung</p>
-                        </tr>
+                        </td>
                     </th>
                     </tc>
                     <tr>

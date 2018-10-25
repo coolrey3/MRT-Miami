@@ -35,7 +35,15 @@
                     <td>
                         <p>Samsung</p>
                     </td>
+                                        <td>
+                        <p>Tablet</p>
+                    </td>
+
+                    <td>
+                        <p>Laptop</p>
+                    </td>
                     </th>
+                
                         <!--
                     <tr>
 <td>

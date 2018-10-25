@@ -26,20 +26,17 @@
             </div>
             <div id="devicetable">
                 <table>
-                    <tc>
                     <th>
 
-                        <tr>
+                        <tc>
                             <p>iPhone</p>
-                        </tr>
+                        </tc>
                     </th>
-                    </tc>
                     <tc>
                     <th>
-
-                        <td>
+                        <tc>
                             <p>Samsung</p>
-                        </td>
+                        </tc>
                     </th>
                     </tc>
                     <tr>

@@ -38,6 +38,10 @@
                                 <p>Samsung</p>
                             </tc>
                     </th>
+                    <tr>
+                        <img src="Images/lcd.png">
+
+                    </tr>
                     </tc>
                     <tr>
                         <tc>

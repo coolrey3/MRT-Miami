@@ -47,7 +47,8 @@
                     <tr>
 <td>
 
-                            <img src="Images/lcd.png">
+    <img src="Images/lcd.png"> 
+                        </td>
                 </tr>
                         <!--
                         </td>

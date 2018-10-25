@@ -31,9 +31,6 @@
                         <tc>
                             <p>iPhone</p>
                         </tc>
-                        <tr>
-                            <img src="Images/lcd.png">
-                        </tr>
 
                         <tc>
 
@@ -42,7 +39,13 @@
                             </tc>
                     </th>
                     <tr>
+                        <td>                        <tr>
+                            <img src="Images/lcd.png">
+                        </tr>
+                        </td>
+                        <td>
                         <img src="Images/lcd.png">
+                        </td>
 
                     </tr>
                     </tc>

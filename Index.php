@@ -25,6 +25,7 @@
                 <p> Click on your device to get stared!</p>
             </div>
             <div id="devicetable">
+                <p>Choose your device below to get started!</p>
                 <table>
                     <thead>
 

@@ -44,3 +44,7 @@ div#devicetable
 #footer ul,li {
     display: inline;
 }
+
+#devicetable p {
+    font-weight: bold;
+}

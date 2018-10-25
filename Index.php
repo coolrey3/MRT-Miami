@@ -31,12 +31,12 @@
                         <tc>
                             <p>iPhone</p>
                         </tc>
-                    </th>
-                    <tc>
-                    <th>
+
                         <tc>
-                            <p>Samsung</p>
-                        </tc>
+
+                            <tc>
+                                <p>Samsung</p>
+                            </tc>
                     </th>
                     </tc>
                     <tr>

@@ -28,27 +28,28 @@
                 <table>
                     <th>
 
-                        <tc>
+                        
+                        <td>
                             <p>iPhone</p>
-                        </tc>
+                        </td>
 
-                        <tc>
 
-                            <tc>
+                            <td>
                                 <p>Samsung</p>
-                            </tc>
+                            </td>
                     </th>
                     <tr>
-                        <td>                        <tr>
-                            <img src="Images/lcd.png">
-                        </tr>
-                        </td>
                         <td>
+                    <tr>
                         <img src="Images/lcd.png">
-                        </td>
+                    </tr>
+                    </td>
+                    <td>
+                        <img src="Images/lcd.png">
+                    </td>
 
                     </tr>
-                    </tc>
+                    
                     <tr>
                         <tc>
                             <td>

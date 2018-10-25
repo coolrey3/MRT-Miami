@@ -28,6 +28,10 @@
                 <table>
                     <th>
 
+                    <tr>
+                        <p>Title</p>
+                    </tr>
+                    </th>
                         <tr>
                             <tc>
                                 <td>
@@ -43,13 +47,10 @@
                         <p> Test text</p>
                     </td>
                     <tr>
-                    </tr>
-                    <tr>
                         <td>
                             <p> Test text</p>
                         </td>
                     </tr>
-                    </th>
                 </table>
             </div>
         </div>

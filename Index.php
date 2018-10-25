@@ -35,7 +35,7 @@
                     <td>
                         <p>Samsung</p>
                     </td>
-                                        <td>
+                    <td>
                         <p>Tablet</p>
                     </td>
 
@@ -43,20 +43,20 @@
                         <p>Laptop</p>
                     </td>
                     </th>
-                
-                    <tr>
-<td>
 
-    <img src="Images/lcd.png"> 
+                    <tr>
+                        <td>
+
+                            <img src="Images/lcd.png">
                         </td>
-                </tr>
-                        <!--
-                        </td>
+                
+                        
                         <td>
                             <img src="Images/lcd.png">
                         </td>
 
                     </tr>
+                    <!--
 
 
                     <td>

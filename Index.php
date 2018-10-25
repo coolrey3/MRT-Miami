@@ -27,13 +27,28 @@
             <div id="devicetable">
                 <table>
                     <th>
-                        <tc>
-                            <div id="selectdevice">
-                                <div id="devicebg">
-                                    <img src="Images/lcd.png">
-                                </div>
-                            </div>
-                        </tc>
+
+                        <tr>
+                            <tc>
+                                <td>
+                                    <div id="selectdevice">
+                                        <div id="devicebg">
+                                            <img src="Images/lcd.png">
+                                        </div>
+                                    </div>
+                                </td>
+                            </tc>
+                        </tr>
+                    <td>
+                        <p> Test text</p>
+                    </td>
+                    <tr>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p> Test text</p>
+                        </td>
+                    </tr>
                     </th>
                 </table>
             </div>

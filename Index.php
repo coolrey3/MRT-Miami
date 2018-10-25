@@ -55,22 +55,19 @@
                             <img src="Images/lcd.png">
                         </td>
 
-                    </tr>
 
 
-                    <td>
-                        <!--  <div id="selectdevice">
+                        <td>
+                            <!--  <div id="selectdevice">
                             <div id="devicebg">
                             </div>
                         </div>
 -->
-                    </td>
-
-
-                    <tr>
+                        </td>
                         <td>
                             <img src="Images/lcd.png">
                         </td>
+
                     </tr>
                 </table>
             </div>

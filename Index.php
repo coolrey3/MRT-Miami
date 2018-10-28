@@ -79,24 +79,24 @@
             <h1> What we can help with!</h1>
             <div id="servicestable">
                 <table>
-                    <th>
+                    <thead>
 
-                        <thead>
+                        <td>
                             <p>Break/Fix</p>
-                        </thead>
+                        </td>
 
-                        <thead>
+                        <td>
                             <p>Custom Desktop Builds</p>
 
-                        </thead>
-                        <thead>
+                        </td>
+                        <td>
                             <p>Water Damage</p>
-                        </thead>
+                        </td>
 
-                        <thead>
+                        <td>
                             <p>Websites</p>
-                        </thead>
-                    </th>
+                        </td>
+                    </thead>
 
                     <tr>
                         <td>

@@ -30,25 +30,25 @@
                     <thead>
 
                         <td>
-                            <p>iPhone</p>
+                            <p>Smartphone</p>
                         </td>
 
-                        <td>
-                            <p>Samsung</p>
-                        </td>
                         <td>
                             <p>Tablet</p>
                         </td>
+                        <td>
+                            <p>Computer</p>
+                        </td>
 
                         <td>
-                            <p>Laptop</p>
+                            <p>Game Console</p>
                         </td>
                     </thead>
 
                     <tr>
                         <td>
 
-                            <img src="Images/lcd.png">
+                            <img src="Images/Smartphones.png">
                         </td>
 
 

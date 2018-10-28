@@ -53,13 +53,13 @@
 
 
                         <td>
-                            <img src="Images/lcd.png">
+                            <img src="Images/iPad.png">
                         </td>
 
 
 
                         <td>
-                            <img src="Images/lcd.png">
+                            <img src="Images/iMac.png">
 
                             <!--  <div id="selectdevice">
                             <div id="devicebg">

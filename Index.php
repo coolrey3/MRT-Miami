@@ -81,21 +81,21 @@
                 <table>
                     <thead>
 
-                        <td>
+                        <th>
                             <p>Break/Fix</p>
-                        </td>
+                        </th>
 
-                        <td>
+                        <th>
                             <p>Custom Desktop Builds</p>
 
-                        </td>
-                        <td>
+                        </th>
+                        <th>
                             <p>Water Damage</p>
-                        </td>
+                        </th>
 
-                        <td>
+                        <th>
                             <p>Websites</p>
-                        </td>
+                        </th>
                     </thead>
 
                     <tr>

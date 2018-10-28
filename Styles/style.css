@@ -18,7 +18,7 @@ h1 {
     text-align: center;
 }
 
-#devicetable,#servicestable
+#devicetable, #servicestable
  {
     display: inline-grid;
     margin: auto;
@@ -34,6 +34,10 @@ h1 {
 #servicestable
 
 div#devicetable 
+
+div#services {
+    text-align: center;
+}
 
 #device img {
     display: ;

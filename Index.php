@@ -68,7 +68,7 @@
 -->
                         </td>
                         <td>
-                            <img src="Images/lcd.png">
+                            <img src="Images/control.png">
                         </td>
 
                     </tr>
@@ -101,7 +101,7 @@
                     <tr>
                         <td>
 
-                            <img src="Images/lcd.png">
+                            <img src="Images/tools.png">
                         </td>
 
 

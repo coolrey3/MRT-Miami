@@ -1,6 +1,10 @@
+body {
+margin: 0px;
+}
+    
+
 #body {
     width:auto;
-    margin: 0px;
 }
 
 #header  {

@@ -6,8 +6,8 @@ $footer=array("'http://start.mobilerepairtechs.com'>POS",
               "'https://www.cellphonerepair.com/gainesville-fl/login/' >Website Back End",
               "'http://facebook.com/mobilerepairtechs'>Facebook",
               "'./tasks.php'>Tasks",
-              "'http://mc.mobilerepairtechs.com'>Marketing Cards",
-              "'localhost/craigslist-ads/'>Craigslist Ad's"
+              "'http://localhost/marketing-cards/'>Marketing Cards",
+              "'http://localhost/craigslist-ads/'>Craigslist Ad's"
 
              );
 

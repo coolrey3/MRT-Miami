@@ -132,7 +132,7 @@
 
     <div id="footer">
 
-        <?php include('../http://localhost/frontend/footer.php');?>
+        <?php include('../localhost/frontend/footer.php');?>
 
         <ul>
             <li><a href="Index.html">Home</a></li>

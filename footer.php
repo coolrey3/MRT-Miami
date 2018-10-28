@@ -7,7 +7,7 @@ $footer=array("'http://start.mobilerepairtechs.com'>POS",
               "'http://facebook.com/mobilerepairtechs'>Facebook",
               "'./tasks.php'>Tasks",
               "'http://mc.mobilerepairtechs.com'>Marketing Cards",
-              "'http://code.raymercedes.com/clist.php'>Craigslist Ad's"
+              "'localhost/craigslist-ads/'>Craigslist Ad's"
 
              );
 

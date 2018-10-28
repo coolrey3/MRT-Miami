@@ -28,7 +28,7 @@ echo "<div style='color:white';>";
 
 echo "| ";
 foreach($footer as $footer) {
-                                echo "<td style='text-decoration-color:white;'> <a /* target='_blank' */ href=$footer </a> | </td>";   
+                                echo "<td style='text-decoration-color:white;'> <a  href=$footer </a> | </td>";   
                             }
 echo "</div>";
 

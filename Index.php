@@ -25,7 +25,7 @@
                 <p> Click on your device to get stared!</p>
             </div>
             <div id="devicetable">
-                <p>Choose your device below to get started!</p>
+                <h2>Choose your device below to get started!</h2>
                 <table>
                     <thead>
 
@@ -77,6 +77,55 @@
         </div>
         <div id="services">
             <h1> What we can help with!</h1>
+            <div id="servicestable">
+                <table>
+                    <thead>
+
+                        <td>
+                            <p>iPhone</p>
+                        </td>
+
+                        <td>
+                            <p>Samsung</p>
+                        </td>
+                        <td>
+                            <p>Tablet</p>
+                        </td>
+
+                        <td>
+                            <p>Laptop</p>
+                        </td>
+                    </thead>
+
+                    <tr>
+                        <td>
+
+                            <img src="Images/lcd.png">
+                        </td>
+
+
+                        <td>
+                            <img src="Images/lcd.png">
+                        </td>
+
+
+
+                        <td>
+                            <img src="Images/lcd.png">
+
+                            <!--  <div id="selectdevice">
+                            <div id="devicebg">
+                            </div>
+                        </div>
+-->
+                        </td>
+                        <td>
+                            <img src="Images/lcd.png">
+                        </td>
+
+                    </tr>
+                </table>
+            </div>
         </div>
     </div>
 

@@ -29,20 +29,20 @@
                 <table>
                     <thead>
 
-                        <td>
+                        <th>
                             <p>Smartphone</p>
-                        </td>
+                        </th>
 
-                        <td>
+                        <th>
                             <p>Tablet</p>
-                        </td>
-                        <td>
+                        </th>
+                        <th>
                             <p>Computer</p>
-                        </td>
+                        </th>
 
-                        <td>
+                        <th>
                             <p>Game Console</p>
-                        </td>
+                        </th>
                     </thead>
 
                     <tr>

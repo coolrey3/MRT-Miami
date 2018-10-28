@@ -82,18 +82,19 @@
                     <thead>
 
                         <td>
-                            <p>iPhone</p>
+                            <p>Break/Fix</p>
                         </td>
 
                         <td>
-                            <p>Samsung</p>
+                            <p>Custom Desktop Builds</p>
+
                         </td>
                         <td>
-                            <p>Tablet</p>
+                            <p>Water Damage</p>
                         </td>
 
                         <td>
-                            <p>Laptop</p>
+                            <p>Websites</p>
                         </td>
                     </thead>
 

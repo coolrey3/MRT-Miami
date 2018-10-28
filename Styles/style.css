@@ -18,14 +18,16 @@ h1 {
     text-align: center;
 }
 
-#devicetable {
+#devicetable,#servicestable
+ {
     display: inline-grid;
     margin: auto;
     text-align: center;
     width: auto;
 }
 
-#devicetable img {
+#devicetable,#servicestable
+ img {
     width: 100%;
 }
 

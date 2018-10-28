@@ -75,6 +75,9 @@
                 </table>
             </div>
         </div>
+        <div id="services">
+            <h1> What we can help with!</h1>
+        </div>
     </div>
 
     <div id="footer">

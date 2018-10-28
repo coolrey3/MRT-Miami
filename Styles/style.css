@@ -6,7 +6,9 @@
     top:0;
     position: absolute;
     width: 100%;
-    background-color: gray;
+    background-color: #08c;
+    border-width: .5px;
+    border-color: black;
 }
 
 h1 {

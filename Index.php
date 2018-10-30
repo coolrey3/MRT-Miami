@@ -148,7 +148,7 @@
 
     <script>
         function myFunction() {
-            document.getElementById("smartphones").innerHTML = "Smartphone Selected";
+            document.getElementById("smartphones").outerHTML = "Smartphone Selected";
         }
     </script>
 </body>

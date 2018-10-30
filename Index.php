@@ -167,6 +167,9 @@
 
                     </tr>
                 </table>
+            </div>
+            
+        </div>
 
                 <!-- end custom code -->
 

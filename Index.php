@@ -151,6 +151,7 @@
                                     <li>Battery Replacement</li><br>
                                     <li>Charger Port Repair</li><br>
                                     <li>Water Damage</li><br>
+                                    <li>No Sound</li><br>
                                     <li> And More!</li><br>
                                 </ol>
                             </td>

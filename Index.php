@@ -80,6 +80,7 @@
             <!-- start custom code -->
             
                         <div id="smartphonestable" style="display:none;text-align:center;">
+                            <h1>Choose your type of Smartphone!</h1>
                 <table>
                     <thead>
 

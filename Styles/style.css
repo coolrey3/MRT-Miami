@@ -26,7 +26,7 @@ h1 {
     text-align: center;
 }
 
-#devicetable, #servicestable
+#devicetable, #servicestable , #smartphonestable
  {
     display: table;
     margin: auto;

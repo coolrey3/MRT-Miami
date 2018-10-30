@@ -179,8 +179,8 @@
                 </table>
             </div>
 
-            <div id= "startoverbutton" onclick = "startOver()">
-                <button> Start Over</button>
+            <div id= "startoverbutton" >
+                <button onclick = "startOver()"> Start Over</button>
             </div>
         </div>
 

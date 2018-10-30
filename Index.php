@@ -99,18 +99,18 @@
                     <tr>
                         <td>
 
-                            <img src="Images/tools.png">
+                            <img src="Images/Smartphones.png">
                         </td>
 
 
                         <td>
-                            <img src="Images/lcd.png">
+                            <img src="Images/samsung.png">
                         </td>
 
 
 
                         <td>
-                            <img src="Images/lcd.png">
+                            <img src="Images/other-smartphone.png">
 
                             <!--  <div id="selectdevice">
                             <div id="devicebg">

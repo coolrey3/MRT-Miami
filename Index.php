@@ -79,7 +79,7 @@
             
             <!-- start custom code -->
             
-                        <div id="smartphonestable">
+                        <div id="smartphonestable" style="display:none">
                 <table>
                     <thead>
 
@@ -200,6 +200,7 @@
     <script>
         function myFunction() {
             document.getElementById("devicetable").style.display = "none";
+            document.getElementById("smartphonestable").style.display = "grid"
         }
     </script>
 </body>

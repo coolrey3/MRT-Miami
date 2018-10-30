@@ -168,6 +168,10 @@
                         <td>
                             <img src="Images/other-smartphone.png">
                         </td>
+                        
+                        <td>
+                            <img src="Images/other-smartphone.png">
+                        </td>
 
 
                     </tr>

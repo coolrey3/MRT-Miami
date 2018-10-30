@@ -222,12 +222,12 @@
         <script>
             function smartphonesFunction() {
                 document.getElementById("devicetable").style.display = "none";
-                document.getElementById("smartphonestable").style.display = "table"
+                document.getElementById("smartphonestable").style.display = "grid"
             }
             
             function iphoneFunction() {
                 document.getElementById("smartphonestable").style.display = "none";
-                document.getElementById("iphonetable").style.display = "table"
+                document.getElementById("iphonetable").style.display = "grid"
             }
         </script>
 </body>

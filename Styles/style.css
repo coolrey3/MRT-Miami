@@ -63,7 +63,7 @@ div#services {
 }
 #footer {
     text-align: center;
-    position: sticky;
+    position: relative;
     background-color: gray;
     width: 100%;
     bottom: 0;

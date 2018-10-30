@@ -44,6 +44,7 @@ h1 {
 #devicetable img,#servicestable
  img, #smartphonestable img ,#iphonestable img {
     width: 100%;
+     max-width: 475px;
 }
 
 #servicestable {

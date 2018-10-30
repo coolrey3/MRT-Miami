@@ -178,7 +178,7 @@
                 </table>
             </div>
             
-        <button> Start Over</button>
+        <button onclick="resetFunction()"> Start Over</button>
         </div>
 
                 <!-- end custom code -->
@@ -230,6 +230,13 @@
         </div>
 
         <script>
+            function resetFunction() {
+                document.getElementById("devicetable").style.display = "grid";
+                document.getElementById("smartphonestable").style.display = "none"
+                document.getElementById("iphonestable").style.display = "none";
+
+            }
+            
             function smartphonesFunction() {
                 document.getElementById("devicetable").style.display = "none";
                 document.getElementById("smartphonestable").style.display = "grid"

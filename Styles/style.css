@@ -17,7 +17,7 @@ margin: 0px;
     border-color: black;
 }
 
-#smartphonestable h1 {
+#smartphonestable,#iphonestable {
     text-align: center;
     margin: auto;
     color:black;
@@ -33,7 +33,7 @@ h1 {
     text-align: center;
 }
 
-#devicetable, #servicestable , #smartphonestable
+#devicetable, #servicestable , #smartphonestable, #iphonestable
  {
     display: table;
     margin: auto;
@@ -42,7 +42,7 @@ h1 {
 }
 
 #devicetable img,#servicestable
- img, #smartphonestable img {
+ img, #smartphonestable img ,#iphonestable img {
     width: 100%;
 }
 

@@ -76,14 +76,7 @@
                     </tr>
                 </table>
             </div>
-                        <div id="devicetable">
-                <h2>Choose your device below to get started!</h2>
-                <table>
-                    <thead>
-
-                        <th>
-                            <p>Smartphone</p>
-                        </th>
+            
         </div>
         <div id="services">
             <h1> What we can help with!</h1>

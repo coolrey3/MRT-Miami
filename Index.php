@@ -144,13 +144,13 @@
                                 <p>Repair Services</p>
 
                                 <ul>
-                                    <li>Broken Screen</li><br>
-                                    <li>Broken Home Button</li><br>
-                                    <li>Battery Replacement</li><br>
-                                    <li>Charger Port Repair</li><br>
-                                    <li>Water Damage</li><br>
-                                    <li>No Sound</li><br>
-                                    <li> And More!</li><br>
+                                    <li>Broken Screen</li> - 
+                                    <li>Broken Home Button</li> - 
+                                    <li>Battery Replacement</li> - 
+                                    <li>Charger Port Repair</li> - 
+                                    <li>Water Damage</li> - 
+                                    <li>No Sound</li> -
+                                    <li> And More!</li>
                                 </ul>
                             </td>
 

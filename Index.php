@@ -113,11 +113,6 @@
                         <td>
                             <img src="Images/other-smartphone.png">
 
-                            <!--  <div id="selectdevice">
-                            <div id="devicebg">
-                            </div>
-                        </div>
--->
 
                     </tr>
                 </table>

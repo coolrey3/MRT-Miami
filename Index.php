@@ -132,11 +132,7 @@
                         <thead>
 
                             <th>
-                                <p>Break/Fix</p>
-                            </th>
-
-                            <th>
-                                <p>Custom Desktop Builds</p>
+                                <p>Repair Services</p>
 
                             </th>
                         </thead>
@@ -144,7 +140,7 @@
                         <tr>
                             <td>
 
-                                <img src="Images/tools.png">
+                                <img src="Images/repairs.jpg">
                             </td>
 
 

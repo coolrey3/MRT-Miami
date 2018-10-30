@@ -123,7 +123,7 @@
            
                         <!-- start custom code -->
 
-            <div id="iphonetable" style="display:none;text-align:center;">
+            <div id="iphonestable" style="display:none;text-align:center;">
                 <h1>Choose your iPhone model!</h1>
                 <table>
                     <thead>

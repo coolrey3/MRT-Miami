@@ -236,7 +236,7 @@
             
             function iphonesFunction() {
                 document.getElementById("smartphonestable").style.display = "none";
-                document.getElementById("iphonetable").style.display = "grid"
+                document.getElementById("iphonestable").style.display = "grid";
             }
         </script>
 </body>

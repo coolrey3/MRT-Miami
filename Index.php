@@ -130,11 +130,6 @@
                 <div id="servicestable">
                     <table>
                         <thead>
-
-                            <th colspan = 2>
-                                <p>Repair Services</p>
-
-                            </th>
                         </thead>
 
                         <tr>
@@ -145,6 +140,8 @@
 
 
                             <td>
+                                <p>Repair Services</p>
+
                                 <ol>
                                     <li>Broken Screen</li><br>
                                     <li>Broken Home Button</li><br>
@@ -182,7 +179,6 @@
                 document.getElementById("devicetable").style.display = "none";
                 document.getElementById("smartphonestable").style.display = "grid"
             }
-
         </script>
 </body>
 

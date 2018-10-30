@@ -24,29 +24,26 @@
                 <p> Do you need something of yours repaired?</p>
                 <p> Click on your device to get stared!</p>
             </div>
-            <div id="smartphonestable">
-                <h2>Choose your type of smartphone!</h2>
+            <div id="devicetable">
+                <h2>Choose your device below to get started!</h2>
                 <table>
                     <thead>
 
                         <th>
-                            <p>iPhone</p>
+                            <p>Smartphone</p>
                         </th>
 
                         <th>
-                            <p>Samsung</p>
+                            <p>Tablet</p>
                         </th>
                         <th>
-                            <p>Other</p>
+                            <p>Computer</p>
+                        </th>
+
+                        <th>
+                            <p>Game Console</p>
                         </th>
                     </thead>
-                    <tr>
-                        <td> iphone pic</td>
-                        <td>samsung pic</td>
-                        <td>other smartphone</td>
-                    </tr>
-                </table>
-            </div>
 
                     <tr>
                         <td>
@@ -79,7 +76,7 @@
                     </tr>
                 </table>
             </div>
-            <div id="devicetable">
+                        <div id="devicetable">
                 <h2>Choose your device below to get started!</h2>
                 <table>
                     <thead>
@@ -87,81 +84,81 @@
                         <th>
                             <p>Smartphone</p>
                         </th>
-            </div>
-            <div id="services">
-                <h1> What we can help with!</h1>
-                <div id="servicestable">
-                    <table>
-                        <thead>
+        </div>
+        <div id="services">
+            <h1> What we can help with!</h1>
+            <div id="servicestable">
+                <table>
+                    <thead>
 
-                            <th>
-                                <p>Break/Fix</p>
-                            </th>
+                        <th>
+                            <p>Break/Fix</p>
+                        </th>
 
-                            <th>
-                                <p>Custom Desktop Builds</p>
+                        <th>
+                            <p>Custom Desktop Builds</p>
 
-                            </th>
-                            <th>
-                                <p>Water Damage</p>
-                            </th>
+                        </th>
+                        <th>
+                            <p>Water Damage</p>
+                        </th>
 
-                            <th>
-                                <p>Websites</p>
-                            </th>
-                        </thead>
+                        <th>
+                            <p>Websites</p>
+                        </th>
+                    </thead>
 
-                        <tr>
-                            <td>
+                    <tr>
+                        <td>
 
-                                <img src="Images/tools.png">
-                            </td>
-
-
-                            <td>
-                                <img src="Images/lcd.png">
-                            </td>
+                            <img src="Images/tools.png">
+                        </td>
 
 
+                        <td>
+                            <img src="Images/lcd.png">
+                        </td>
 
-                            <td>
-                                <img src="Images/lcd.png">
 
-                                <!--  <div id="selectdevice">
+
+                        <td>
+                            <img src="Images/lcd.png">
+
+                            <!--  <div id="selectdevice">
                             <div id="devicebg">
                             </div>
                         </div>
 -->
-                            </td>
-                            <td>
-                                <img src="Images/lcd.png">
-                            </td>
+                        </td>
+                        <td>
+                            <img src="Images/lcd.png">
+                        </td>
 
-                        </tr>
-                    </table>
-                </div>
+                    </tr>
+                </table>
             </div>
         </div>
+    </div>
 
-        <div id="footer">
+    <div id="footer">
 
-            <?php include('../Frontend/footer.php');?>
+        <?php include('../Frontend/footer.php');?>
 
-            <ul>
-                <li><a href="Index.html">Home</a></li>
-                <li>About Us</li>
-                <li>Repairs</li>
-                <li><a href="./info.php">Php Info</a></li>
+        <ul>
+            <li><a href="Index.html">Home</a></li>
+            <li>About Us</li>
+            <li>Repairs</li>
+            <li><a href="./info.php">Php Info</a></li>
 
 
-            </ul>
-        </div>
+        </ul>
+    </div>
 
-        <script>
-            function myFunction() {
-                document.getElementById("devicetable").style.display = "none";
-            }
-        </script>
+    <script>
+        function myFunction() {
+            document.getElementById("devicetable").style.display = "none";
+        }
+    </script>
 </body>
 
 </html>

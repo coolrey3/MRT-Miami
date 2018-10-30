@@ -24,6 +24,7 @@
                 <p> Do you need something of yours repaired?</p>
                 <p> Click on your device to get stared!</p>
             </div>
+            
             <div id="devicetable">
                 <h2>Choose your device below to get started!</h2>
                 <table>
@@ -121,7 +122,7 @@
 
             </div>
            
-                        <!-- start custom code -->
+                        <!-- start iphone table -->
 
             <div id="iphonestable" style="display:none;text-align:center;">
                 <h1>Choose your iPhone model!</h1>
@@ -181,7 +182,7 @@
         <button onclick = "resetFunction()"> Start Over</button>
         </div>
 
-                <!-- end custom code -->
+                <!-- end iphone table -->
 
             
             <div id="services">

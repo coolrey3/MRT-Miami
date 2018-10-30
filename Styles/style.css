@@ -52,7 +52,7 @@ h1 {
 
 }
 
-div#services {
+div#services , div#device {
     text-align: center;
 }
 

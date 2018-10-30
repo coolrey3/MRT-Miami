@@ -24,7 +24,7 @@
                 <p> Do you need something of yours repaired?</p>
                 <p> Click on your device to get stared!</p>
             </div>
-            
+
             <div id="devicetable">
                 <h2>Choose your device below to get started!</h2>
                 <table>
@@ -121,8 +121,8 @@
                 <!-- end custom code -->
 
             </div>
-           
-                        <!-- start iphone table -->
+
+            <!-- start iphone table -->
 
             <div id="iphonestable" style="display:none;text-align:center;">
                 <h1>Choose your iPhone model!</h1>
@@ -165,11 +165,11 @@
                         <td>
                             <img src="Images/other-smartphone.png">
                         </td>
-                        
+
                         <td>
                             <img src="Images/other-smartphone.png">
                         </td>
-                        
+
                         <td>
                             <img src="Images/other-smartphone.png">
                         </td>
@@ -178,81 +178,83 @@
                     </tr>
                 </table>
             </div>
-            
-        <button onclick = "resetFunction()"> Start Over</button>
-        </div>
 
-                <!-- end iphone table -->
-
-            
-            <div id="services">
-                <h1> What we can help with!</h1>
-                <div id="servicestable">
-                    <table>
-                        <thead>
-                        </thead>
-
-
-                        <tr>
-                            <td>
-                                <p>Repair Services</p>
-
-                                <ul>
-                                    <li>Broken Screen</li> -
-                                    <li>Broken Home Button</li> -
-                                    <li>Battery Replacement</li> -
-                                    <li>Charger Port Repair</li> -
-                                    <li>Water Damage</li> -
-                                    <li>No Sound</li> -
-                                    <li> And More!</li>
-                                </ul>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-
-                                <img src="Images/banner.jpg">
-                            </td>
-
-                        </tr>
-                    </table>
-
-                </div>
-                <a href="https://www.facebook.com">
-                    <button> Schedule an Appointment or FREE Quote Now!</button>
-                </a>
+            <div onclick="resetFunction()">
+                <button> Start Over</button>
             </div>
         </div>
 
-        <div id="footer">
+        <!-- end iphone table -->
 
-            <?php include('../Frontend/footer.php');?>
+        <!-- start services table -->
 
+
+        <div id="services">
+            <h1> What we can help with!</h1>
+            <div id="servicestable">
+                <table>
+                    <thead>
+                    </thead>
+
+
+                    <tr>
+                        <td>
+                            <p>Repair Services</p>
+
+                            <ul>
+                                <li>Broken Screen</li> -
+                                <li>Broken Home Button</li> -
+                                <li>Battery Replacement</li> -
+                                <li>Charger Port Repair</li> -
+                                <li>Water Damage</li> -
+                                <li>No Sound</li> -
+                                <li> And More!</li>
+                            </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+
+                            <img src="Images/banner.jpg">
+                        </td>
+
+                    </tr>
+                </table>
+
+            </div>
+            <a href="https://www.facebook.com">
+                <button> Schedule an Appointment or FREE Quote Now!</button>
+            </a>
         </div>
+    </div>
 
-        <script>
-            
-            function smartphonesFunction() {
-                document.getElementById("devicetable").style.display = "none";
-                document.getElementById("smartphonestable").style.display = "grid"
-            }
-        </script>
-            
-        <script>
-            function iphonesFunction() {
-                document.getElementById("smartphonestable").style.display = "none";
-                document.getElementById("iphonestable").style.display = "grid";
-            }
-        </script>
-        <script>
-            
-            function resetFunction() {
-                document.getElementById("devicetable").style.display = "grid";
-                document.getElementById("smartphonestable").style.display = "none"
-                document.getElementById("iphonestable").style.display = "none";
+    <div id="footer">
 
-            }
-        </script>
+        <?php include('../Frontend/footer.php');?>
+
+    </div>
+
+    <script>
+        function smartphonesFunction() {
+            document.getElementById("devicetable").style.display = "none";
+            document.getElementById("smartphonestable").style.display = "grid"
+        }
+    </script>
+
+    <script>
+        function iphonesFunction() {
+            document.getElementById("smartphonestable").style.display = "none";
+            document.getElementById("iphonestable").style.display = "grid";
+        }
+    </script>
+    <script>
+        function resetFunction() {
+            document.getElementById("devicetable").style.display = "grid";
+            document.getElementById("smartphonestable").style.display = "none"
+            document.getElementById("iphonestable").style.display = "none";
+
+        }
+    </script>
 </body>
 
 </html>

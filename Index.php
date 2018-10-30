@@ -138,11 +138,12 @@
                                 <img src="Images/banner.jpg">
                             </td>
 
-
+                        </tr>
+                        <tr>
                             <td>
                                 <p>Repair Services</p>
 
-                                <ol>
+                                <ul>
                                     <li>Broken Screen</li><br>
                                     <li>Broken Home Button</li><br>
                                     <li>Battery Replacement</li><br>
@@ -150,7 +151,7 @@
                                     <li>Water Damage</li><br>
                                     <li>No Sound</li><br>
                                     <li> And More!</li><br>
-                                </ol>
+                                </ul>
                             </td>
 
 

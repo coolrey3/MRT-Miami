@@ -79,7 +79,7 @@
             
             <!-- start custom code -->
             
-                        <div id="smartphonestable" style="display:none">
+                        <div id="smartphonestable" style="display:none;text-align:center;">
                 <table>
                     <thead>
 

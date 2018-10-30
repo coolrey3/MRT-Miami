@@ -178,7 +178,7 @@
                 </table>
             </div>
             
-        <button onclick="resetFunction()"> Start Over</button>
+        <button onclick = "resetFunction()"> Start Over</button>
         </div>
 
                 <!-- end custom code -->
@@ -215,8 +215,8 @@
 
                         </tr>
                     </table>
-                </div>
 
+                </div>
                 <a href="https://www.facebook.com">
                     <button> Schedule an Appointment or FREE Quote Now!</button>
                 </a>

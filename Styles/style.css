@@ -35,13 +35,19 @@ h1 {
 }
 
 #devicetable img,#servicestable
- img {
+ img, #smartphonestable img {
     width: 100%;
 }
 
 #servicestable {
          color:white;
 
+}
+
+#smartphonestable {
+    text-align: center;
+    margin: auto;
+    
 }
 
 div#devicetable 

@@ -236,11 +236,15 @@
                 document.getElementById("devicetable").style.display = "none";
                 document.getElementById("smartphonestable").style.display = "grid"
             }
+        </script>
             
+        <script>
             function iphonesFunction() {
                 document.getElementById("smartphonestable").style.display = "none";
                 document.getElementById("iphonestable").style.display = "grid";
             }
+        </script>
+        <script>
             
             function resetFunction() {
                 document.getElementById("devicetable").style.display = "grid";

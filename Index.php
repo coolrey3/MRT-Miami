@@ -77,6 +77,56 @@
                 </table>
             </div>
             
+            <!-- start custom code -->
+            
+                        <div id="smartphonestable">
+                <table>
+                    <thead>
+
+                        <th>
+                            <p>iPhone</p>
+                        </th>
+
+                        <th>
+                            <p>Samsung</p>
+
+                        </th>
+                        <th>
+                            <p>Other Smartphone</p>
+                        </th>
+                    </thead>
+
+                    <tr>
+                        <td>
+
+                            <img src="Images/tools.png">
+                        </td>
+
+
+                        <td>
+                            <img src="Images/lcd.png">
+                        </td>
+
+
+
+                        <td>
+                            <img src="Images/lcd.png">
+
+                            <!--  <div id="selectdevice">
+                            <div id="devicebg">
+                            </div>
+                        </div>
+-->
+                        </td>
+                        <td>
+                            <img src="Images/lcd.png">
+                        </td>
+
+                    </tr>
+                </table>
+
+                            <!-- end custom code -->
+            
         </div>
         <div id="services">
             <h1> What we can help with!</h1>

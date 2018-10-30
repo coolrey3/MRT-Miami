@@ -131,7 +131,7 @@
                     <table>
                         <thead>
 
-                            <th>
+                            <th colspan = 2>
                                 <p>Repair Services</p>
 
                             </th>

@@ -132,28 +132,27 @@
                         <thead>
                         </thead>
 
-                        <tr>
-                            <td>
 
-                                <img src="Images/banner.jpg">
-                            </td>
-
-                        </tr>
                         <tr>
                             <td>
                                 <p>Repair Services</p>
 
                                 <ul>
-                                    <li>Broken Screen</li> - 
-                                    <li>Broken Home Button</li> - 
-                                    <li>Battery Replacement</li> - 
-                                    <li>Charger Port Repair</li> - 
-                                    <li>Water Damage</li> - 
+                                    <li>Broken Screen</li> -
+                                    <li>Broken Home Button</li> -
+                                    <li>Battery Replacement</li> -
+                                    <li>Charger Port Repair</li> -
+                                    <li>Water Damage</li> -
                                     <li>No Sound</li> -
                                     <li> And More!</li>
                                 </ul>
                             </td>
+                        </tr>
+                        <tr>
+                            <td>
 
+                                <img src="Images/banner.jpg">
+                            </td>
 
                         </tr>
                     </table>

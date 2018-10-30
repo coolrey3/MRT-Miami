@@ -168,14 +168,6 @@
 
             <?php include('../Frontend/footer.php');?>
 
-            <ul>
-                <li><a href="Index.html">Home</a></li>
-                <li>About Us</li>
-                <li>Repairs</li>
-                <li><a href="./info.php">Php Info</a></li>
-
-
-            </ul>
         </div>
 
         <script>

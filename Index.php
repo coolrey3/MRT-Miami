@@ -230,12 +230,6 @@
         </div>
 
         <script>
-            function resetFunction() {
-                document.getElementById("devicetable").style.display = "grid";
-                document.getElementById("smartphonestable").style.display = "none"
-                document.getElementById("iphonestable").style.display = "none";
-
-            }
             
             function smartphonesFunction() {
                 document.getElementById("devicetable").style.display = "none";
@@ -245,6 +239,13 @@
             function iphonesFunction() {
                 document.getElementById("smartphonestable").style.display = "none";
                 document.getElementById("iphonestable").style.display = "grid";
+            }
+            
+            function resetFunction() {
+                document.getElementById("devicetable").style.display = "grid";
+                document.getElementById("smartphonestable").style.display = "none"
+                document.getElementById("iphonestable").style.display = "none";
+
             }
         </script>
 </body>

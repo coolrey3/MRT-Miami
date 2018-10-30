@@ -48,7 +48,7 @@
                     <tr>
                         <td>
 
-                            <div id="smartphones" onclick="myFunction()">
+                            <div id="smartphones" onclick="smartphonesFunction()">
                                 <img src="Images/Smartphones.png">
                             </div>
                         </td>
@@ -120,6 +120,57 @@
                 <!-- end custom code -->
 
             </div>
+           
+                        <!-- start custom code -->
+
+            <div id="iphonetable" style="display:none;text-align:center;">
+                <h1>Choose your iPhone model!</h1>
+                <table>
+                    <thead>
+
+                        <th>
+                            <p>iPhone 5/5s/5c</p>
+                        </th>
+
+                        <th>
+                            <p>iPhone 6/6s/6+</p>
+
+                        </th>
+                        <th>
+                            <p>iPhone 7/7+</p>
+                        </th>
+                        <th>
+                            <p>iPhone 8/8+</p>
+                        </th>
+                        <th>
+                            <p>iPhone X/Xs</p>
+                        </th>
+
+                    </thead>
+
+                    <tr>
+                        <td>
+
+                            <img src="Images/Smartphones.png">
+                        </td>
+
+
+                        <td>
+                            <img src="Images/samsung.png">
+                        </td>
+
+
+
+                        <td>
+                            <img src="Images/other-smartphone.png">
+
+
+                    </tr>
+                </table>
+
+                <!-- end custom code -->
+
+            
             <div id="services">
                 <h1> What we can help with!</h1>
                 <div id="servicestable">
@@ -166,9 +217,14 @@
         </div>
 
         <script>
-            function myFunction() {
+            function smartphonesFunction() {
                 document.getElementById("devicetable").style.display = "none";
                 document.getElementById("smartphonestable").style.display = "grid"
+            }
+            
+            function iphoneFunction() {
+                document.getElementById("smartphonestable").style.display = "none";
+                document.getElementById("iphonetable").style.display = "grid"
             }
         </script>
 </body>

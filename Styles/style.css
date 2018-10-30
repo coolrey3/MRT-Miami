@@ -28,7 +28,7 @@ h1 {
 
 #devicetable, #servicestable
  {
-    display: inline-grid;
+    display: table;
     margin: auto;
     text-align: center;
     width: auto;

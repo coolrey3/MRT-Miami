@@ -148,7 +148,7 @@
 
     <script>
         function myFunction() {
-            document.getElementById("smartphones").outerHTML = "Smartphone Selected";
+            document.getElementById("devicetable").style.display = "none";
         }
     </script>
 </body>

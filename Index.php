@@ -100,7 +100,7 @@
                     <tr>
                         <td>
 
-                            <img src="Images/Smartphones.png">
+                            <img src="Images/Smartphones.png" onclick="iphonesFunction()">
                         </td>
 
 
@@ -225,7 +225,7 @@
                 document.getElementById("smartphonestable").style.display = "grid"
             }
             
-            function iphoneFunction() {
+            function iphonesFunction() {
                 document.getElementById("smartphonestable").style.display = "none";
                 document.getElementById("iphonetable").style.display = "grid"
             }

@@ -117,10 +117,6 @@
                             </div>
                         </div>
 -->
-                        </td>
-                        <td>
-                            <img src="Images/lcd.png">
-                        </td>
 
                     </tr>
                 </table>

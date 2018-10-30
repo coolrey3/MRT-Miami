@@ -24,26 +24,29 @@
                 <p> Do you need something of yours repaired?</p>
                 <p> Click on your device to get stared!</p>
             </div>
-            <div id="devicetable">
-                <h2>Choose your device below to get started!</h2>
+            <div id="smartphonestable">
+                <h2>Choose your type of smartphone!</h2>
                 <table>
                     <thead>
 
                         <th>
-                            <p>Smartphone</p>
+                            <p>iPhone</p>
                         </th>
 
                         <th>
-                            <p>Tablet</p>
+                            <p>Samsung</p>
                         </th>
                         <th>
-                            <p>Computer</p>
-                        </th>
-
-                        <th>
-                            <p>Game Console</p>
+                            <p>Other</p>
                         </th>
                     </thead>
+                    <tr>
+                        <td> iphone pic</td>
+                        <td>samsung pic</td>
+                        <td>other smartphone</td>
+                    </tr>
+                </table>
+            </div>
 
                     <tr>
                         <td>
@@ -76,81 +79,89 @@
                     </tr>
                 </table>
             </div>
-        </div>
-        <div id="services">
-            <h1> What we can help with!</h1>
-            <div id="servicestable">
+            <div id="devicetable">
+                <h2>Choose your device below to get started!</h2>
                 <table>
                     <thead>
 
                         <th>
-                            <p>Break/Fix</p>
+                            <p>Smartphone</p>
                         </th>
+            </div>
+            <div id="services">
+                <h1> What we can help with!</h1>
+                <div id="servicestable">
+                    <table>
+                        <thead>
 
-                        <th>
-                            <p>Custom Desktop Builds</p>
+                            <th>
+                                <p>Break/Fix</p>
+                            </th>
 
-                        </th>
-                        <th>
-                            <p>Water Damage</p>
-                        </th>
+                            <th>
+                                <p>Custom Desktop Builds</p>
 
-                        <th>
-                            <p>Websites</p>
-                        </th>
-                    </thead>
+                            </th>
+                            <th>
+                                <p>Water Damage</p>
+                            </th>
 
-                    <tr>
-                        <td>
+                            <th>
+                                <p>Websites</p>
+                            </th>
+                        </thead>
 
-                            <img src="Images/tools.png">
-                        </td>
+                        <tr>
+                            <td>
 
-
-                        <td>
-                            <img src="Images/lcd.png">
-                        </td>
-
+                                <img src="Images/tools.png">
+                            </td>
 
 
-                        <td>
-                            <img src="Images/lcd.png">
+                            <td>
+                                <img src="Images/lcd.png">
+                            </td>
 
-                            <!--  <div id="selectdevice">
+
+
+                            <td>
+                                <img src="Images/lcd.png">
+
+                                <!--  <div id="selectdevice">
                             <div id="devicebg">
                             </div>
                         </div>
 -->
-                        </td>
-                        <td>
-                            <img src="Images/lcd.png">
-                        </td>
+                            </td>
+                            <td>
+                                <img src="Images/lcd.png">
+                            </td>
 
-                    </tr>
-                </table>
+                        </tr>
+                    </table>
+                </div>
             </div>
         </div>
-    </div>
 
-    <div id="footer">
+        <div id="footer">
 
-        <?php include('../Frontend/footer.php');?>
+            <?php include('../Frontend/footer.php');?>
 
-        <ul>
-            <li><a href="Index.html">Home</a></li>
-            <li>About Us</li>
-            <li>Repairs</li>
-            <li><a href="./info.php">Php Info</a></li>
+            <ul>
+                <li><a href="Index.html">Home</a></li>
+                <li>About Us</li>
+                <li>Repairs</li>
+                <li><a href="./info.php">Php Info</a></li>
 
 
-        </ul>
-    </div>
+            </ul>
+        </div>
 
-    <script>
-        function myFunction() {
-            document.getElementById("devicetable").style.display = "none";
-        }
-    </script>
+        <script>
+            function myFunction() {
+                document.getElementById("devicetable").style.display = "none";
+            }
+        </script>
 </body>
 
 </html>

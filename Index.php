@@ -139,13 +139,6 @@
                                 <p>Custom Desktop Builds</p>
 
                             </th>
-                            <th>
-                                <p>Water Damage</p>
-                            </th>
-
-                            <th>
-                                <p>Websites</p>
-                            </th>
                         </thead>
 
                         <tr>
@@ -156,14 +149,14 @@
 
 
                             <td>
-                                <ul>
+                                <ol>
                                     <li>Broken Screen</li>
                                     <li>Broken Home Button</li>
                                     <li>Battery Replacement</li>
                                     <li>Charger Port Repair</li>
                                     <li>Water Damage</li>
                                     <li> And More!</li>
-                                </ul>
+                                </ol>
                             </td>
 
 

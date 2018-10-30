@@ -81,3 +81,7 @@ p #devicetable  {
     background-color: rgba(0,0,0,.5);
     text-align: center;
 }
+
+button {
+    text-align: center;
+}

@@ -48,7 +48,9 @@
                     <tr>
                         <td>
 
-                            <img src="Images/Smartphones.png">
+                            <div id="smartphones" onclick="myFunction()">
+                                <img src="Images/Smartphones.png">
+                            </div>
                         </td>
 
 
@@ -143,6 +145,12 @@
 
         </ul>
     </div>
+
+    <script>
+        function myFunction() {
+            document.getElementById("smartphones").innerHTML = "Smartphone Selected";
+        }
+    </script>
 </body>
 
 </html>

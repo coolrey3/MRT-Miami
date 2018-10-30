@@ -76,11 +76,11 @@
                     </tr>
                 </table>
             </div>
-            
+
             <!-- start custom code -->
-            
-                        <div id="smartphonestable" style="display:none;text-align:center;">
-                            <h1>Choose your type of Smartphone!</h1>
+
+            <div id="smartphonestable" style="display:none;text-align:center;">
+                <h1>Choose your type of Smartphone!</h1>
                 <table>
                     <thead>
 
@@ -122,84 +122,78 @@
                     </tr>
                 </table>
 
-                            <!-- end custom code -->
-            
-        </div>
-        <div id="services">
-            <h1> What we can help with!</h1>
-            <div id="servicestable">
-                <table>
-                    <thead>
+                <!-- end custom code -->
 
-                        <th>
-                            <p>Break/Fix</p>
-                        </th>
+            </div>
+            <div id="services">
+                <h1> What we can help with!</h1>
+                <div id="servicestable">
+                    <table>
+                        <thead>
 
-                        <th>
-                            <p>Custom Desktop Builds</p>
+                            <th>
+                                <p>Break/Fix</p>
+                            </th>
 
-                        </th>
-                        <th>
-                            <p>Water Damage</p>
-                        </th>
+                            <th>
+                                <p>Custom Desktop Builds</p>
 
-                        <th>
-                            <p>Websites</p>
-                        </th>
-                    </thead>
+                            </th>
+                            <th>
+                                <p>Water Damage</p>
+                            </th>
 
-                    <tr>
-                        <td>
+                            <th>
+                                <p>Websites</p>
+                            </th>
+                        </thead>
 
-                            <img src="Images/tools.png">
-                        </td>
+                        <tr>
+                            <td>
 
-
-                        <td>
-                            <img src="Images/lcd.png">
-                        </td>
+                                <img src="Images/tools.png">
+                            </td>
 
 
+                            <td>
+                                <ul>
+                                    <li>Broken Screen</li>
+                                    <li>Broken Home Button</li>
+                                    <li>Battery Replacement</li>
+                                    <li>Charger Port Repair</li>
+                                    <li>Water Damage</li>
+                                    <li> And More!</li>
+                                </ul>
+                            </td>
 
-                        <td>
-                            <img src="Images/lcd.png">
 
-                            <!--  <div id="selectdevice">
-                            <div id="devicebg">
-                            </div>
-                        </div>
--->
-                        </td>
-                        <td>
-                            <img src="Images/lcd.png">
-                        </td>
-
-                    </tr>
-                </table>
+                        </tr>
+                    </table>
+                </div>
             </div>
         </div>
-    </div>
 
-    <div id="footer">
+        <div id="footer">
 
-        <?php include('../Frontend/footer.php');?>
+            <?php include('../Frontend/footer.php');?>
 
-        <ul>
-            <li><a href="Index.html">Home</a></li>
-            <li>About Us</li>
-            <li>Repairs</li>
-            <li><a href="./info.php">Php Info</a></li>
+            <ul>
+                <li><a href="Index.html">Home</a></li>
+                <li>About Us</li>
+                <li>Repairs</li>
+                <li><a href="./info.php">Php Info</a></li>
 
 
-        </ul>
-    </div>
+            </ul>
+        </div>
 
-    <script>
-        function myFunction() {
-            document.getElementById("devicetable").style.display = "none";
-            document.getElementById("smartphonestable").style.display = "grid"
-        }
-    </script>
+        <script>
+            function myFunction() {
+                document.getElementById("devicetable").style.display = "none";
+                document.getElementById("smartphonestable").style.display = "grid"
+            }
+
+        </script>
 </body>
 
 </html>

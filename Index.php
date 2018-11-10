@@ -249,6 +249,9 @@
         </div>
     </div>
 
+    <div id="appointment">
+        <h2>Fill out the form below to schedule an appointment or free quote!</h2>
+    </div>
     <div id="footer">
 
         <?php include('../Frontend/footer.php');?>

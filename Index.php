@@ -39,12 +39,10 @@
 <!-- End WOWSlider.com BODY section -->
         <div id="device">
             <div id="devicetitle">
-                <p> Do you need something of yours repaired?</p>
-                <p> Click on your device to get stared!</p>
+                <h2>Choose your device below to get started!</h2>
             </div>
 
             <div id="devicetable">
-                <h2>Choose your device below to get started!</h2>
                 <table>
                     <thead>
 

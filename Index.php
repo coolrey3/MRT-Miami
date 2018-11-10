@@ -36,8 +36,7 @@
 </div>	
 <script type="text/javascript" src="engine1/wowslider.js"></script>
 <script type="text/javascript" src="engine1/script.js"></script>
-<!-- End WOWSlider.com BODY section -->        <div id="device">
-            <div id="devicetitle">
+<!-- End WOWSlider.com BODY section -->            <div id="devicetitle">
                 <h2>Choose your device below to get started!</h2>
             </div>
 

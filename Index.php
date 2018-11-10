@@ -27,7 +27,7 @@
             <div class="ws_images">
                 <ul>
                     <li><a href="#devicetable" target="_self"><img src="data1/images/banner.jpg" alt="Repairs" title="Repairs" id="wows1_0" /></a></li>
-                    <li><a href="servicestable"><img src="data1/images/repairs.jpg" alt="Services" title="Services" id="wows1_1" /></a></li>
+                    <li><a href="#services"><img src="data1/images/repairs.jpg" alt="Services" title="Services" id="wows1_1" /></a></li>
                 </ul>
             </div>
             <div class="ws_bullets">

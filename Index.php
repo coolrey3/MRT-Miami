@@ -5,12 +5,31 @@
 <head>
     <title>Mobile Repair Techs</title>
     <link href="./styles/style.css" type="text/css" rel=stylesheet>
-        <script src="JS/script.js"></script>
-        <script language="php" type="text/php"> echo 'test this';</script>
+    <script src="JS/script.js"></script>
+    <script language="php" type="text/php"> echo 'test this';</script>
 
+    <!-- Start WOWSlider.com HEAD section -->
+    <link rel="stylesheet" type="text/css" href="engine1/style.css" />
+    <script type="text/javascript" src="engine1/jquery.js"></script>
+    <!-- End WOWSlider.com HEAD section -->
 </head>
 
 <body>
+    <!-- Start WOWSlider.com BODY section -->
+<div id="wowslider-container1">
+<div class="ws_images"><ul>
+		<li><a href="http://wowslider.net"><img src="data1/images/banner.jpg" alt="html slider" title="banner" id="wows1_0"/></a></li>
+		<li><img src="data1/images/repairs.jpg" alt="repairs" title="repairs" id="wows1_1"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="banner"><span><img src="data1/tooltips/banner.jpg" alt="banner"/>1</span></a>
+		<a href="#" title="repairs"><span><img src="data1/tooltips/repairs.jpg" alt="repairs"/>2</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">responsive slider</a> by WOWSlider.com v8.8</div>
+<div class="ws_shadow"></div>
+</div>	
+<script type="text/javascript" src="engine1/wowslider.js"></script>
+<script type="text/javascript" src="engine1/script.js"></script>
+<!-- End WOWSlider.com BODY section -->
     <div id="header">
         <h1>
             We Fix All your Electronic Devices for a great price!
@@ -178,8 +197,8 @@
                 </table>
             </div>
 
-            <div id= "startoverbutton" >
-                <button onclick = "startOver()"> Start Over</button>
+            <div id="startoverbutton">
+                <button onclick="startOver()"> Start Over</button>
             </div>
         </div>
 

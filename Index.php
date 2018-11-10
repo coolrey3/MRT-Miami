@@ -26,14 +26,14 @@
         <div id="wowslider-container1">
             <div class="ws_images">
                 <ul>
-                    <li><a href="#devicetable" target="_self"><img src="data1/images/banner.jpg" alt="Services" title="Services" id="wows1_0" /></a></li>
-                    <li><a href="#devicetable"><img src="data1/images/repairs.jpg" alt="repairs" title="repairs" id="wows1_1" /></a></li>
+                    <li><a href="#devicetable" target="_self"><img src="data1/images/banner.jpg" alt="Repairs" title="Repairs" id="wows1_0" /></a></li>
+                    <li><a href="servicestable"><img src="data1/images/repairs.jpg" alt="Services" title="Services" id="wows1_1" /></a></li>
                 </ul>
             </div>
             <div class="ws_bullets">
                 <div>
-                    <a href="#" title="Services"><span><img src="data1/tooltips/banner.jpg" alt="Services" />1</span></a>
-                    <a href="#" title="repairs"><span><img src="data1/tooltips/repairs.jpg" alt="repairs" />2</span></a>
+                    <a href="#" title="Repairs"><span><img src="data1/tooltips/banner.jpg" alt="Repairs" />1</span></a>
+                    <a href="#" title="Services"><span><img src="data1/tooltips/repairs.jpg" alt="Services" />2</span></a>
                 </div>
             </div>
             <div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">responsive slider</a> by WOWSlider.com v8.8</div>

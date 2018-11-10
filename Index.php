@@ -22,21 +22,26 @@
     </div>
 
     <div id="body">
-    <!-- Start WOWSlider.com BODY section -->
-<div id="wowslider-container1">
-<div class="ws_images"><ul>
-		<li><a href="http://wowslider.net"><img src="data1/images/banner.jpg" alt="html slider" title="banner" id="wows1_0"/></a></li>
-		<li><img src="data1/images/repairs.jpg" alt="repairs" title="repairs" id="wows1_1"/></li>
-	</ul></div>
-	<div class="ws_bullets"><div>
-		<a href="#" title="banner"><span><img src="data1/tooltips/banner.jpg" alt="banner"/>1</span></a>
-		<a href="#" title="repairs"><span><img src="data1/tooltips/repairs.jpg" alt="repairs"/>2</span></a>
-	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">responsive slider</a> by WOWSlider.com v8.8</div>
-<div class="ws_shadow"></div>
-</div>	
-<script type="text/javascript" src="engine1/wowslider.js"></script>
-<script type="text/javascript" src="engine1/script.js"></script>
-<!-- End WOWSlider.com BODY section -->
+        <!-- Start WOWSlider.com BODY section -->
+        <div id="wowslider-container1">
+            <div class="ws_images">
+                <ul>
+                    <li><a href="#devicetable" target="_self"><img src="data1/images/banner.jpg" alt="Services" title="Services" id="wows1_0" /></a></li>
+                    <li><a href="#devicetable"><img src="data1/images/repairs.jpg" alt="repairs" title="repairs" id="wows1_1" /></a></li>
+                </ul>
+            </div>
+            <div class="ws_bullets">
+                <div>
+                    <a href="#" title="Services"><span><img src="data1/tooltips/banner.jpg" alt="Services" />1</span></a>
+                    <a href="#" title="repairs"><span><img src="data1/tooltips/repairs.jpg" alt="repairs" />2</span></a>
+                </div>
+            </div>
+            <div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">responsive slider</a> by WOWSlider.com v8.8</div>
+            <div class="ws_shadow"></div>
+        </div>
+        <script type="text/javascript" src="engine1/wowslider.js"></script>
+        <script type="text/javascript" src="engine1/script.js"></script>
+        <!-- End WOWSlider.com BODY section -->
         <div id="device">
             <div id="devicetitle">
                 <h2>Choose your device below to get started!</h2>

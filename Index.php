@@ -15,6 +15,13 @@
 </head>
 
 <body>
+    <div id="header">
+        <h1>
+            We Fix All your Electronic Devices for a great price!
+        </h1>
+    </div>
+
+    <div id="body">
     <!-- Start WOWSlider.com BODY section -->
 <div id="wowslider-container1">
 <div class="ws_images"><ul>
@@ -30,13 +37,6 @@
 <script type="text/javascript" src="engine1/wowslider.js"></script>
 <script type="text/javascript" src="engine1/script.js"></script>
 <!-- End WOWSlider.com BODY section -->
-    <div id="header">
-        <h1>
-            We Fix All your Electronic Devices for a great price!
-        </h1>
-    </div>
-
-    <div id="body">
         <div id="device">
             <div id="devicetitle">
                 <p> Do you need something of yours repaired?</p>
